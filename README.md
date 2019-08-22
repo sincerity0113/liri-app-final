@@ -32,7 +32,6 @@ To initiate new search
 
 Test screen
 
-<a href="https://imgflip.com/gif/38lf6f"><img src="https://i.imgflip.com/38lf6f.gif" title="made at imgflip.com"/></a>
-
+<a href="https://imgflip.com/gif/38lfum"><img src="https://i.imgflip.com/38lfum.gif" title="made at imgflip.com"/></a>
 Author
 Taeyeong(T.J.) Park
