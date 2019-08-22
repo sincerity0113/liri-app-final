@@ -31,7 +31,7 @@ The default is set to 'movie' - which will initiate a movie search
 To initiate new search  
 
 Test screen
+![testimg](https://i.imgflip.com/38lfum.gif)
 
-<a href="https://imgflip.com/gif/38lfum"><img src="https://i.imgflip.com/38lfum.gif" title="made at imgflip.com"/></a>
 Author
 Taeyeong(T.J.) Park
