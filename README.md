@@ -31,7 +31,7 @@ The default is set to 'movie' - which will initiate a movie search
 To initiate new search  
 
 Test screen
-![testimg](https://i.imgur.com/x5bd8gu.gifv)
+![testimg](https://i.imgur.com/x5bd8gu.gif)
 
 Author
 Taeyeong(T.J.) Park
